@@ -19,14 +19,29 @@ const Resume = () => {
             Professional certifications and technical achievements
           </p>
 
-          {/* Resume Download */}
-          <a
-            href="/resumes.mileinygreys.docx"
-            download="resumes.mileinygreys.docx"
-            className="btn btn-success btn-lg shadow-sm"
-          >
-            Download Resume
-          </a>
+          {/* Resume Buttons */}
+          <div className="d-flex justify-content-center gap-3">
+
+            {/* View Resume */}
+            <a
+              href="/resumes.mileinygreys.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn btn-outline-success btn-lg shadow-sm"
+            >
+              View My Resume
+            </a>
+
+            {/* Download Resume */}
+            <a
+              href="/resumes.mileinygreys.docx"
+              download="resumes.mileinygreys.docx"
+              className="btn btn-success btn-lg shadow-sm"
+            >
+              Download My Resume
+            </a>
+
+          </div>
         </div>
 
         {/* Certifications Section */}
@@ -44,9 +59,6 @@ const Resume = () => {
                 <h5 className="fw-semibold mb-1">
                   Python Certification – W3Schools
                 </h5>
-                <p className="text-muted small mb-0">
-                 
-                </p>
               </div>
             </div>
           </div>
@@ -63,9 +75,6 @@ const Resume = () => {
                 <h5 className="fw-semibold mb-1">
                   CompTIA A+ Certification
                 </h5>
-                <p className="text-muted small mb-0">
-                 
-                </p>
               </div>
             </div>
           </div>
@@ -82,9 +91,6 @@ const Resume = () => {
                 <h5 className="fw-semibold mb-1">
                   HTML Certification – W3Schools
                 </h5>
-                <p className="text-muted small mb-0">
-                 
-                </p>
               </div>
             </div>
           </div>
