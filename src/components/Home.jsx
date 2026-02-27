@@ -36,7 +36,7 @@ const Home = () => {
                 Hi, I'm <span className="text-primary fw-bold"> Mileiny Nolasco</span>
               </h1>
               <h4 className="mb-3" style={{ animation: 'fadeIn 2s ease-in-out 0.7s', animationFillMode: 'both' }}>
-                Front-End React Developer
+                Full Stack Developer
               </h4>
               <p className="lead" style={{ animation: 'fadeIn 2s ease-in-out 0.9s', animationFillMode: 'both' }}>
                 

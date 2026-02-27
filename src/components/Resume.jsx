@@ -3,8 +3,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 // Certificates
 import python from "../assets/certificates.jpg";
-import CompTIA from "../assets/CompTIA A+ ce certificate_page-0001.jpg";
+import compTIA from "../assets/CompTIA A+ ce certificate_page-0001.jpg";
 import html from "../assets/certificate_of_completion_html_page-0001.jpg";
+import cloud from "../assets/awscloud_page-0001.jpg";
 
 const Resume = () => {
   return (
@@ -20,11 +21,11 @@ const Resume = () => {
           </p>
 
           {/* Resume Buttons */}
-          <div className="d-flex justify-content-center gap-3">
+          <div className="d-flex justify-content-center gap-3 flex-wrap">
 
             {/* View Resume */}
             <a
-              href="/resumes.mileinygreys.pdf"
+              href="/resumes.mileinyvaldez.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-outline-success btn-lg shadow-sm"
@@ -34,8 +35,8 @@ const Resume = () => {
 
             {/* Download Resume */}
             <a
-              href="/resumes.mileinygreys.docx"
-              download="resumes.mileinygreys.docx"
+              href="/resumes.mileinyvaldez.docx"
+              download
               className="btn btn-success btn-lg shadow-sm"
             >
               Download My Resume
@@ -49,10 +50,10 @@ const Resume = () => {
 
           {/* Python Certificate */}
           <div className="col-md-4 col-sm-6">
-            <div className="card border-0 shadow-lg rounded-4 hover-scale transition">
+            <div className="card border-0 shadow-lg rounded-4 hover-scale transition h-100">
               <img
                 src={python}
-                alt="W3Schools Python Certificate"
+                alt="W3Schools Python Certification"
                 className="img-fluid rounded-top-4"
               />
               <div className="card-body text-center">
@@ -65,10 +66,10 @@ const Resume = () => {
 
           {/* CompTIA A+ Certificate */}
           <div className="col-md-4 col-sm-6">
-            <div className="card border-0 shadow-lg rounded-4 hover-scale transition">
+            <div className="card border-0 shadow-lg rounded-4 hover-scale transition h-100">
               <img
-                src={CompTIA}
-                alt="CompTIA A+ Certificate"
+                src={compTIA}
+                alt="CompTIA A+ Certification"
                 className="img-fluid rounded-top-4"
               />
               <div className="card-body text-center">
@@ -81,10 +82,10 @@ const Resume = () => {
 
           {/* HTML Certificate */}
           <div className="col-md-4 col-sm-6">
-            <div className="card border-0 shadow-lg rounded-4 hover-scale transition">
+            <div className="card border-0 shadow-lg rounded-4 hover-scale transition h-100">
               <img
                 src={html}
-                alt="HTML Certificate"
+                alt="W3Schools HTML Certification"
                 className="img-fluid rounded-top-4"
               />
               <div className="card-body text-center">
@@ -95,11 +96,27 @@ const Resume = () => {
             </div>
           </div>
 
+          {/* AWS Cloud Practitioner */}
+          <div className="col-md-4 col-sm-6">
+            <div className="card border-0 shadow-lg rounded-4 hover-scale transition h-100">
+              <img
+                src={cloud}
+                alt="AWS Certified Cloud Practitioner"
+                className="img-fluid rounded-top-4"
+              />
+              <div className="card-body text-center">
+                <h5 className="fw-semibold mb-1">
+                  AWS Certified Cloud Practitioner
+                </h5>
+              </div>
+            </div>
+          </div>
+
         </div>
 
         {/* Contact Info */}
         <div className="row g-4 justify-content-center">
-          
+
           {/* Phone */}
           <div className="col-md-3 col-sm-6">
             <a href="tel:+13475969308" className="text-decoration-none">
@@ -138,7 +155,9 @@ const Resume = () => {
 
       {/* Footer */}
       <footer className="bg-dark text-white text-center py-4 mt-auto">
-        <p className="mb-0">© 2025 Mileiny Nolasco. All Rights Reserved.</p>
+        <p className="mb-0">
+          © {new Date().getFullYear()} Mileiny Nolasco. All Rights Reserved.
+        </p>
       </footer>
 
       {/* Animations */}
@@ -158,3 +177,5 @@ const Resume = () => {
 };
 
 export default Resume;
+
+
