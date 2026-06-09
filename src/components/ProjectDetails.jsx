@@ -451,10 +451,10 @@ const ProjectDetails = () => {
         {/* ── FOOTER (matches Resume & Home pages) ── */}
         <footer className="rv-footer">
           <nav className="rv-footer-nav">
-            <a href="/">Home</a>
-            <a href="/about">About</a>
-            <a href="/projects">Projects</a>
-            <a href="/resume">Resume</a>
+            <Link to="/">Home</Link>
+  <Link to="/about">About</Link>
+  <Link to="/projects">Projects</Link>
+  <Link to="/resume">Resume</Link>
           </nav>
           <div className="rv-footer-right">
             <span className="rv-open-badge">Open to work</span>
