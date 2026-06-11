@@ -1,95 +1,140 @@
-💻 Mileiny Nolasco – Portfolio
+<div align="center">
 
-Welcome to my portfolio! 🚀
-I’m a motivated and detail-oriented Software Engineer with practical experience in Python, django, SQL, HTML, CSS, JavaScript, and the MERN stack. I’m passionate about continuous learning and enjoy creating applications that combine clean design with efficient functionality. This portfolio showcases projects that highlight my strengths in web development, problem-solving, and delivering user-focused solutions.
+# Hi, I'm Mileiny Nolasco 👋
 
-📂 Projects
-1️⃣ Traditional Dominican Recipes
+### Full-Stack Developer · Continuous Learner
 
-📝 Description: A MERN stack webpage that allows users to order traditional Dominican desserts.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel)](https://frontend-nine-tau-71.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-mileiny1-181717?style=for-the-badge&logo=github)](https://github.com/mileiny1)
 
-💡 Concept: Allow users to make orders of traditional desserts available in the store.
+</div>
 
-🛠 Technologies: 🟢 React, 🟠 Node.js, 🟡 MongoDB, 🔵 Express, 🎨 Bootstrap, ⚙️ Postman, ☁️ Heroku, ☁️ Vercel
+---
 
-✨ Features: Browse recipes, Images included, Responsive design
+## 👩‍💻 About Me
 
-🌐 Live: https://frontend-nine-tau-71.vercel.app/
+I'm a motivated and detail-oriented Software Engineer with hands-on experience building full-stack web applications. I love crafting projects that blend **clean design** with **efficient functionality** — from Django backends to React frontends.
 
-💻 Code: https://github.com/mileiny1/frontend
+**Core Skills:**
 
-2️⃣ Stirs Craft Cocktails
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-📝 Description: A Django web application for cocktail enthusiasts, featuring social features, advanced database relationships, and professional deployment.
+---
 
-💡 Concept: Cocktail recipe manager built with full-stack tools.
+## 📂 Projects
 
-🛠 Technologies: 🟣 Django, 🟡 Python, 🟤 PostgreSQL, 🎨 Bootstrap, 🎨 CSS, ☁️ Heroku
+### 🍮 Traditional Dominican Recipes
+> A MERN stack app where users can browse and order traditional Dominican desserts.
 
-✨ Features: Modern, responsive design; user authentication; social features; advanced database relationships; production deployment
+**Stack:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-🌐 Live: https://stircraft-app-0dd06cf5d30a.herokuapp.com/
+✅ Browse recipes with images &nbsp;|&nbsp; ✅ Place dessert orders &nbsp;|&nbsp; ✅ Responsive design
 
-💻 Code: https://github.com/mileiny1/stir-craft
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-success?style=flat-square)](https://frontend-nine-tau-71.vercel.app/)
+[![Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github)](https://github.com/mileiny1/frontend)
 
-3️⃣ To Do List App
+---
 
-📝 Description: A simple web app to help users manage and organize tasks effectively.
+### 🍹 Stirs Craft Cocktails
+> A full-featured Django app for cocktail enthusiasts with social features and production deployment.
 
-💡 Concept: Task management that helps users stay organized and productive.
+**Stack:**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-🛠 Technologies: 🟢 React, 🟠 Node.js, 🎨 CSS, ☁️ Vercel
+✅ User authentication &nbsp;|&nbsp; ✅ Social features &nbsp;|&nbsp; ✅ Advanced DB relationships &nbsp;|&nbsp; ✅ Production deployment
 
-✨ Features: Modern web design, Add/Delete tasks, Responsive layout
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-success?style=flat-square)](https://stircraft-app-0dd06cf5d30a.herokuapp.com/)
+[![Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github)](https://github.com/mileiny1/stir-craft)
 
-🌐 Live: https://to-do-app-azure-eta.vercel.app/
+---
 
-💻 Code: https://github.com/mileiny1/To-Do-App
+### ✅ To Do List App
+> A clean, minimal task manager to help users stay organized and productive.
 
-4️⃣ Quiz App Language Learning
+**Stack:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-📝 Description: An interactive language learning quiz application.
+✅ Add & delete tasks &nbsp;|&nbsp; ✅ Modern UI &nbsp;|&nbsp; ✅ Responsive layout
 
-💡 Concept: Educational game for practicing languages.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-success?style=flat-square)](https://to-do-app-azure-eta.vercel.app/)
+[![Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github)](https://github.com/mileiny1/To-Do-App)
 
-🛠 Technologies: 🟢 React, 🟣 TypeScript, 🎨 CSS, ☁️ Vercel
+---
 
-✨ Features: Timed quizzes, Score tracking, Multiple languages
+### 🌍 Quiz App — Language Learning
+> An interactive educational quiz game for practicing multiple languages.
 
-🌐 Live: https://language-quiz-gray.vercel.app/
+**Stack:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-💻 Code: https://github.com/mileiny1/language-quiz
+✅ Timed quizzes &nbsp;|&nbsp; ✅ Score tracking &nbsp;|&nbsp; ✅ Multiple languages
 
-5️⃣ Book Tracker
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-success?style=flat-square)](https://language-quiz-gray.vercel.app/)
+[![Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github)](https://github.com/mileiny1/language-quiz)
 
-📝 Description: Organize, review, and track your reading habits with ratings and notes.
+---
 
-💡 Concept: Helps readers manage, review, and discover patterns in their reading.
+### 📚 Book Tracker
+> Organize, review, and track your reading habits with ratings and personal notes.
 
-🛠 Technologies: 🟢 React, 🎨 Bootstrap, 🎨 CSS, ☁️ Vercel
+**Stack:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-✨ Features: Add books, Rate & review, Search & filter, Responsive design
+✅ Add books &nbsp;|&nbsp; ✅ Rate & review &nbsp;|&nbsp; ✅ Search & filter &nbsp;|&nbsp; ✅ Responsive design
 
-🌐 Live: https://book-tracker-eight-ivory.vercel.app/
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-success?style=flat-square)](https://book-tracker-eight-ivory.vercel.app/)
+[![Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github)](https://github.com/mileiny1/Book-Tracker)
 
-💻 Code: https://github.com/mileiny1/Book-Tracker
+---
 
-6️⃣ Vet Connect
+### 🐾 Vet Connect
+> Connects pet owners with veterinary services — appointment scheduling, pet profiles, and vet directory.
 
-📝 Description: Connects pet owners with veterinary services, allowing users to manage appointments, store pet information, and communicate with professionals.
+**Stack:**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-💡 Concept: Connecting pet owners with veterinary services.
+✅ User authentication &nbsp;|&nbsp; ✅ Appointment scheduling &nbsp;|&nbsp; ✅ Vet directory &nbsp;|&nbsp; ✅ Responsive design
 
-🛠 Technologies: 🟡 Python, 🟣 Django, 🟤 SQL, 🌐 HTML, 🎨 Bootstrap, 🎨 CSS, ⚡ JavaScript, ☁️ Heroku
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-success?style=flat-square)](https://vetconnect-57f3b024748b.herokuapp.com/appointments/)
+[![Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github)](https://github.com/mileiny1/VetConnect)
 
-✨ Features: User authentication, Appointment scheduling, Vet directory, Responsive design
+---
 
-🌐 Live: https://vetconnect-57f3b024748b.herokuapp.com/appointments/
+<div align="center">
 
-💻 Code: https://github.com/mileiny1/VetConnect
+*Thanks for visiting! Feel free to explore the projects and reach out.* 🚀
 
-📫 Connect with Me
+</div>
 
-💼 LinkedIn.
-
-🐙 GitHub..
