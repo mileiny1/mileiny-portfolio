@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · Continuous Learner
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel)](https://frontend-nine-tau-71.vercel.app/)
+[![Portfolio](https://mileiny-portfolio-valdez.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-mileiny1-181717?style=for-the-badge&logo=github)](https://github.com/mileiny1)
 
 </div>
@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a motivated and detail-oriented Software Engineer with hands-on experience building full-stack web applications. I love crafting projects that blend **clean design** with **efficient functionality** — from Django backends to React frontends.
+I'm a motivated and detail-oriented Software Engineer with hands-on experience building full stack web applications. I love crafting projects that blend **clean design** with **efficient functionality** — from Django backends to React frontends.
 
 **Core Skills:**
 
