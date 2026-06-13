@@ -4,9 +4,8 @@
 
 ### Full-Stack Developer · Continuous Learner
 
-[![Portfolio](https://mileiny-portfolio-valdez.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mileiny--portfolio--valdez-blue?style=for-the-badge&logo=vercel)](https://mileiny-portfolio-valdez.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-mileiny1-181717?style=for-the-badge&logo=github)](https://github.com/mileiny1)
-
 </div>
 
 ---
