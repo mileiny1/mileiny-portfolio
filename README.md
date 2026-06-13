@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a motivated and detail-oriented Software Engineer with hands-on experience building full stack web applications. I love crafting projects that blend **clean design** with **efficient functionality** — from Django backends to React frontends.
+I'm a motivated and detail oriented Software Engineer with hands on experience building full stack web applications. I love crafting projects that blend **clean design** with **efficient functionality** from Django backends to React frontends.
 
 **Core Skills:**
 
