@@ -14,6 +14,7 @@ import cypress from '../assets/cypress.png';
 import booststrap from '../assets/boostrap.jpeg';
 import heroku from '../assets/heroku.png';
 import vercel from '../assets/vercel.png';
+import pytest from '../assets/pytest.png';
 
 const tools = [
   { img: downloadImage, name: 'HTML, CSS, JavaScript' },
@@ -32,6 +33,7 @@ const tools = [
 const testingTools = [
   { img: postman,  name: 'Postman' },
   { img: cypress,  name: 'Cypress' },
+  { img: pytest,    name: 'Pytest' },
 ];
 
 const Home = () => {
