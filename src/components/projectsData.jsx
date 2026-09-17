@@ -75,7 +75,7 @@ const projects = [
   title: 'AI Food Search',
   description: 'AI Food Search is a smart restaurant discovery web app that allows users to find nearby dining options using AI powered restaurant recommendations, natural language queries, and advanced filters.',
   concept: 'A web application that allows users to search for nearby restaurants using natural language queries and smart filters. The frontend handles geocoding through OpenStreetMap Nominatim to convert user-typed locations into coordinates, then sends the search request to the Django backend which routes it through Yelp or Google Places and optionally enhances results with OpenAI recommendations. Users can create an account, manage their profile, and view their search history. The backend supports JWT authentication with access and refresh tokens, Redis backed response caching, and a mock fallback mode for development without API keys.',
-  technologies: ['React', 'Vite', 'Bootstrap', 'JavaScript', 'Python', 'Django', 'PostgreSQL', 'Redis', 'Vercel', 'Heroku',  'CSS'],
+  technologies: ['React', 'Vite', 'Bootstrap', 'JavaScript', 'Python', 'Django', 'PostgreSQL', 'Redis', 'Vercel', 'Heroku',  'CSS', 'Claude'],
   features: ['AI powered restaurant recommendations', 'Location aware search with filters', 'JWT authentication with token refresh', 'User profile management', 'Per user search history', 'Responsive design'],
   live: 'https://ai-foodsearch-frontend.vercel.app/',
   code: 'https://github.com/mileiny1/Ai-foodsearch-frontend',

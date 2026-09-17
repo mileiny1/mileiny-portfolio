@@ -1,4 +1,3 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
 import myphoto from '../assets/myphoto.jpg';
 
@@ -67,8 +66,8 @@ const About = () => {
         }
         .ab-heading {
           font-family: 'Lora', serif;
-          font-size: clamp(34px, 5vw, 50px);
-          font-weight: 600; color: #0f172a;
+          font-size: clamp(30px, 4vw, 42px);
+          font-weight: 600; color: #2563eb;
           line-height: 1.1; letter-spacing: -0.02em;
           margin-bottom: 24px;
           opacity: 0; animation: fadeUp 0.5s ease forwards 0.2s;
@@ -251,8 +250,8 @@ const About = () => {
                 About Me
               </div>
               <h1 className="ab-heading">
-                Creative thinker.<br />
-                <span>Full Stack</span> builder.
+                Building clean, performant<br />
+                web experiences.
               </h1>
               <p className="ab-bio">
                 <strong>Mileiny Nolasco</strong> is an aspiring Software Engineer with a strong passion for technology, problem solving, and continuous learning. After three years of college level study and extensive self taught experience in Computer Information Systems, I decided to follow my passion for technology and build a career in the tech industry after working as a Nursing Assistant. I enjoy building web applications and creating solutions that improve user experiences. My technical skills include JavaScript, Python, React, HTML, CSS, Node.js, Express.js, MongoDB, PostgreSQL, and cloud technologies. Through hands on projects and real-world experience, I have developed a strong foundation in software development, troubleshooting, and system administration. I also use Postman for API testing and Cypress for front-end testing, allowing me to thoroughly test and validate the applications I develop. When I'm not coding, I enjoy spending time with family, learning new technologies, and jet skiing. I am always looking for opportunities to grow as a developer, expand my technical expertise, and contribute to meaningful projects that make a positive impact.
