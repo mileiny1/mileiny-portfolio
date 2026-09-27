@@ -8,23 +8,23 @@ const skillGroups = [
   },
   {
     title: '⚙️ Backend Development',
-    items: ['Django', 'FastAPI', 'Node.js', 'Express.js', 'Mongoose'],
+    items: ['Django', 'Node.js', 'Express.js', 'Mongoose', 'Redis'],
   },
   {
     title: '🗄️ Databases',
-    items: ['PostgreSQL', 'SQL', 'pgvector', 'MongoDB'],
+    items: ['PostgreSQL', 'SQL', 'MongoDB'],
   },
   {
     title: '🤖 AI & Machine Learning',
-    items: ['LLM APIs', 'Embeddings', 'RAG (Retrieval-Augmented Generation)', 'Vector Databases', 'Prompt Engineering', 'PyTorch', 'Machine Learning'],
+    items: ['Embeddings', 'RAG (Retrieval-Augmented Generation)', 'Vector Databases - PgVector',  'PyTorch', 'Machine Learning', 'FastAPI'],
   },
   {
     title: '☁️ Cloud & Deployment',
-    items: ['AWS', 'Heroku', 'Vercel'],
+    items: ['Heroku', 'Vercel', 'Docker'],
   },
   {
     title: '🧪 Testing & API',
-    items: ['Unit Testing', 'Pytest', 'Jest', 'Cypress', 'Postman'],
+    items: [ 'Pytest', 'Jest', 'Cypress', 'Postman'],
   },
 ];
 
